@@ -4,6 +4,7 @@ Présentation de mon travail
 Formé par l'école O'Clock en 2018-2019, voici mes principales réalisations:
 
 ~~Mon site personnel où sont visibles tous les projets: [anthonyperspace.pw](http://anthonyperspace.pw)~~
+ - Le jeu de Memory en JQuery : [lien](https://o-clock-hyperspace.github.io/evaluation-js-memory-Tonyp85-25/)
 
 ### Liste des dépôts Github
 
